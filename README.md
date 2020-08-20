@@ -1,16 +1,22 @@
 ### Hi there 👋
+# Welcome, I am Vaibhav
+#### About Me
+I am a computer science undergrad. Exploring new software stuff has always been a matter of interest for me.you can find my latest projects here
+📫 how to reach me : vaibhavpratapsingh.com/from-github
 
-<!--
-**iamvps007/iamvps007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Technical Skills ⚡
+* C, C++, JAVA, Python
+* JavaScript, Node JS, Express
+* PHP
+* MySQL
+* Github
 
-Here are some ideas to get you started:
+#### Other Skills ⚡
+* UI & UX Design
+* Adobe XD (Wireframing and UI Design)
+* Adobe Flash & Micromedia Flash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+      
+  
