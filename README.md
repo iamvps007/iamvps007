@@ -18,9 +18,8 @@ I am a computer science undergrad. Exploring new software stuff has always been 
 
 #### Follow me 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> ['Follo me'](https://www.vaibhavpratapsingh.com/follow-me/instagram)
-
-
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.vaibhavpratapsingh.com/follow-me/instagram) [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.vaibhavpratapsingh.com/follow-me/twitter)
+ 
 
       
   
