@@ -5,7 +5,7 @@ I am a computer science undergrad. Exploring new software stuff has always been 
 📫 how to reach me : https://vaibhavpratapsingh.com/
 
 #### Technical Skills ⚡
-* JavaScript,
+* JavaScript, C,C++
 * Node.js, Express, PHP, React.js
 * MySQL, MongoDB
 * Github
