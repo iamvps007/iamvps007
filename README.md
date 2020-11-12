@@ -15,11 +15,7 @@ I am a computer science undergrad. Exploring new software stuff has always been 
 * Adobe XD (Wireframing and UI Design)
 * Adobe Flash & Micromedia Flash
 
-#### Follow me 
-
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.vaibhavpratapsingh.com/follow-me/instagram)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.vaibhavpratapsingh.com/follow-me/twitter)
- 
-
+### Contact me
+ - vaibhav1bab@gmail.com
       
   
