@@ -17,5 +17,7 @@ I am a computer science undergrad. Exploring new software stuff has always been 
 
 ### Contact me
  - vaibhav1bab@gmail.com
+ - vaibhav6bab@outlook.com
+ - vaibhavpratapsingh.com/contact
       
   
