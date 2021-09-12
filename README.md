@@ -2,7 +2,7 @@
 # Welcome, I am Vaibhav
 #### About Me
 I am a computer science undergrad. Exploring new software stuff has always been a matter of interest for me.you can find my latest projects here
-📫 how to reach me : https://vaibhavpratapsingh.com/
+
 
 #### Technical Skills ⚡
 * JavaScript, C,C++
@@ -18,6 +18,5 @@ I am a computer science undergrad. Exploring new software stuff has always been 
 ### Contact me
  - vaibhav1bab@gmail.com
  - vaibhav6bab@outlook.com
- - vaibhavpratapsingh.com/contact
       
   
