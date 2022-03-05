@@ -6,7 +6,7 @@ I am a computer science undergrad. Exploring new software stuff has always been 
 
 #### Technical Skills ⚡
 * JavaScript, C,C++
-* Node.js, Express, PHP, React.js
+* Node.js, Express, PHP, React.js, React-native
 * MySQL, MongoDB
 * Github
 
